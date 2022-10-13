@@ -8,7 +8,7 @@ export const environment = {
   XRapidAPIHostHeaderName: 'X-RapidAPI-Host',
   XRapidAPIHostHeaderValue: 'open-weather13.p.rapidapi.com',
   XRapidAPIKeyHeaderName: 'X-RapidAPI-Key',
-  XRapidAPIKeyHeaderValue: '0176c4105cmshd2331d16a0ea493p1e8750jsn78bac3e53790'
+  XRapidAPIKeyHeaderValue: '3e3bd1252bmshe1fa0eabc65aa9dp106bf8jsn0fbb9bb4c9ac'
   
 };
 
